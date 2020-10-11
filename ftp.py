@@ -8,3 +8,6 @@ with FTP() as ftp:
     ftp.dir()
     # r.close()
     ftp.quit()
+
+
+    # Changed some stuff ehre
